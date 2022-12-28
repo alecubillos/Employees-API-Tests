@@ -28,6 +28,3 @@ These instructions will help you set up the project on your local machine
 3. Fron IntelliJ's main menu, click on 'View'
 4. Click on 'Open in Browser'
 5. Select the Browser of your preference
-
-Example of the Emailable Report
-
